@@ -1,4 +1,4 @@
-# test_db.py
+# test_db.py to test MySQL connection
 from sqlalchemy import create_engine
 
 DATABASE_URL = "mysql+pymysql://root:%40%24Kinoti100%25@localhost:3306/student_course_db"
